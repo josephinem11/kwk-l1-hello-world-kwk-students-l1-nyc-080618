@@ -1,4 +1,4 @@
-# Hello World
+hputs "2+2=5"
 
 ## Overview
 
